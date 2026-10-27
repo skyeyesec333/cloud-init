@@ -3,3 +3,4 @@ Restrictions: needs-root, needs-reboot, breaks-testbed
 
 Tests: logrotate-conffile.py
 Depends: python3, dpkg
+Restrictions: allow-stderr
